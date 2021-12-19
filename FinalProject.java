@@ -1,8 +1,6 @@
-package projectakhirkel3pemdas;
-
 import java.util.*;
 
-public class ProjectAkhirKel3Pemdas {
+public class FinalProject {
 
     public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
